@@ -3,7 +3,7 @@ require 'pry'
 def snake_it_up(string)
     
   if string[0] == "s"
-    string_start = 
+    string_start = 10.times do
     10 * "s" + string
 
   else
