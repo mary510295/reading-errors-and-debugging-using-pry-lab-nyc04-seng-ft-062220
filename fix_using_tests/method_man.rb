@@ -11,3 +11,5 @@ def play_game(player2)
   binding.pry
 end
 
+start_game('fu', 'nao')
+play_game('nao')
