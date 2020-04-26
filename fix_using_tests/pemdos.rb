@@ -10,4 +10,4 @@ def snake_it_up(string)
 
 end
 
-snake_it_up("sssse")
+snake_it_up("so")
