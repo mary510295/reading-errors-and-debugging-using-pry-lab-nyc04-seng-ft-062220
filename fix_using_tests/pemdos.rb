@@ -3,12 +3,9 @@ require 'pry'
 def snake_it_up(string)
     
   if string[0] == "s"
-    string_start = 
-    10.times do print 's'
+    10.times do string = 's' + string
     binding.pry
-  end
-    string = string_start + string
-
+    end
   else
     string
   end
