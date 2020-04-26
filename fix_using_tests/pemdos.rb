@@ -15,4 +15,4 @@ def snake_it_up(string)
 
 end
 
-snake_it_up("so")
+puts snake_it_up("so")
