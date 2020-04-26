@@ -5,6 +5,7 @@ def snake_it_up(string)
     end
   else
     string
+  end
 end
 
 puts snake_it_up("so")
